@@ -1,8 +1,2 @@
 #!/bin/bash
-echo "Fichiers dans le répertoire courant :"
-ls -la .
-echo "Fichiers dans le répertoire parent :"
-ls -la ..
-echo "Fichiers dans le répertoire /boot :"
-ls -la /boot
-
+echo ls -la
