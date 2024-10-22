@@ -1,2 +1,2 @@
 #!/bin/bash
-if then /tmp
+file_type=$(file -b /tmp/iamafile)
